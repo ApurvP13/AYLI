@@ -32,7 +32,7 @@ const Hero = () => {
       className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-4 py-12 gap-12 font-display"
     >
       <img
-        src="/logo-1.PNG"
+        src="/logo-1.png"
         className="w-48 sm:w-60 md:w-72 fade-up"
         alt="Logo"
       />
